@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "huisu note"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : "항상 꾸준히 열심히"
+name                     : "huisu_park"
 description              : "An amazing website."
 url                      : "https://huisuroda.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
